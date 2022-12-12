@@ -21,4 +21,3 @@ c.execute("""CREATE TABLE customers (
 conn.commit() # commit our command
 # close our connection
 conn.close()
-# https://www.youtube.com/watch?v=byHcYRpMgI4
